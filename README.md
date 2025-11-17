@@ -7,7 +7,7 @@
 
 # ¡¡Hola!! Gracias por visitar mi github
 ## Perfil 🖋️
-Como profesional en formación en ingeniería de datos y desarrollo, mis capacidades incluyen:
+Como profesional en formación de ingeniería de datos y desarrollo, mis capacidades incluyen:
 
 - [x] Diseño y análisis de requerimientos de proyectos informáticos.
 - [x] Facilidad de aprendizaje y compromiso con las actividades a desarrollar.
