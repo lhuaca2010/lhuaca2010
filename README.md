@@ -7,13 +7,12 @@
 
 # ¡¡Hola!! Gracias por visitar mi github
 ## Perfil 🖋️
-Como desarrollador de software, mis capacidades incluyen:
+Como profesional en formación en ingeniería de datos y desarrollo, mis capacidades incluyen:
 
 - [x] Diseño y análisis de requerimientos de proyectos informáticos.
 - [x] Facilidad de aprendizaje y compromiso con las actividades a desarrollar.
 - [x] Resolución de problemas, la comunicación y los conocimientos técnicos.
-- Además, tengo experiencia como practicante desarrollador Oracle ERP Cloud, donde realicé la creación de reportes, generacion de plantillas y colaboré en la solución de diseños
-funcionales técnicos. Durante mi práctica, también me familiaricé con las mejores prácticas en gestión de bases de datos y optimización de procesos.
+- Además, tengo experiencia desarrollándome en el área de Business Intelligence, participando en proyectos de migración, integración y transformación de información empresarial con herramientas modernas orientadas a la nube.
 
 ## Manejo de sistemas :computer:
-Tecnologías de frontend como React, JavaScript, jQuery, HTML5, CSS y Thymeleaf. En el backend, tengo experiencia con Java, Spring Boot, Spring Security y JPA/Hibernate. Además, manejo gestores de bases de datos como Oracle, SQL Server y MySQL. También utilizo herramientas y otras tecnologías como Git, GitHub y Docker.
+He trabajado con plataformas SAP como SAP ERP (R/3) y SAP Datasphere, desarrollando flujos ETL para migración e integración de datos. Manejo bases de datos como Oracle, SQL Server, MySQL y Snowflake. Además, utilizo Python para desarrollo y automatizaciones, y herramientas como Power BI, Excel, Git, GitHub y Docker para análisis y gestión técnica.
