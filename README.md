@@ -15,4 +15,4 @@ Como profesional en formación de Ingeniería de sistemas, mis capacidades inclu
 - Tengo experiencia desarrollándome en el área de Business Intelligence, participando en proyectos de migración, integración y transformación de información empresarial con herramientas modernas orientadas a la nube.
 
 ## Manejo de sistemas :computer:
-He trabajado con plataformas SAP como SAP ERP (R/3) y SAP Datasphere, desarrollando flujos ETL para migración e integración de datos. Manejo bases de datos como Oracle, SQL Server, MySQL y Snowflake. Además, he utilizado lenguajes como Java y Python para desarrollo y automatizaciones, y herramientas como Power BI, Excel, Git, GitHub y Azure DevOps para análisis y gestión técnica.
+He trabajado con plataformas SAP como SAP ERP (R/3) y SAP Datasphere, desarrollando flujos ETL para migración e integración de datos. Manejo bases de datos como Oracle, SQL Server, MySQL y Snowflake. Además, he utilizado lenguajes como Java y Python para desarrollo y automatizaciones, y herramientas como Power BI, Excel, Git y Azure DevOps para análisis y gestión técnica.
